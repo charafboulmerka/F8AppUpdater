@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Allow sharing files from external storage -->
+    <external-path name="external_files" path="."/>
+    <external-files-path name="apk" path="." />
+
+</paths>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">F8AppUpdater</string>
+    <string name="dialog_update_title">Nouvelle version disponible</string>
+    <string name="dialog_update_body">Une nouvelle version est disponible. Téléchargez-la maintenant.</string>
+    <string name="dialog_update_button_update">Mettre à jour</string>
+    <string name="dialog_update_button_cancel">Annuler</string>
+
+    <string name="dialog_update_downloading">Téléchargement de la mise à jour…</string>
+
+</resources>
